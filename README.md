@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Pratap Chandra Rout
+# 👋 Hi there, this is Pratap
 
-> *Technical Analyst @ Wipro Technologies | Student | Data Science Enthusiast | Web Dev Explorer*
+> *Working as a technical Analyst @ Wipro Technologies | Student | Data Science Enthusiast | Web Dev Explorer*
 
 ---
 
