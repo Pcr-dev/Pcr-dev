@@ -1,14 +1,16 @@
 # 👋 Hi there, this is Pratap
 
-> *Working as a technical Analyst @ Wipro Technologies | Student | Data Science Enthusiast | Web Dev Explorer*
+> *Working as a technical Analyst @ Wipro Technologies | Life Long Learner | Data Science Enthusiast | Web Dev & passionate for product design*
 
 ---
 
 ## 🚀 About Me
 
-A passionate tech guy who loves to dive deep into the ever-evolving world of technology. By day, I'm a Technical Analyst at Wipro Technologies, and by night (and weekends!), I'm an avid learner, currently exploring the realms of Data Science and sharpening my skills in web development. I thrive on curiosity and the excitement of learning something new every day.
+A passionate tech guy who loves to dive deep into the ever-evolving world of technology. By day, I'm a Technical Analyst at Wipro Technologies, and by night (and weekends!), I'm an avid learner, currently exploring the realms of Data world and sharpening my skills. I thrive on curiosity and the excitement of learning something new every day.
 
-Always open to collaborate with like-minded folks—if you love tech, let's connect! I also enjoy attending technical conferences, from web technologies to web3 and beyond, to stay updated on what's happening on the other side of the coin.
+Always open to collaborate with like-minded folks who loves tech, let's connect! 
+
+I also enjoy attending technical conferences, Blinking ideas in Start-up, Business talks and networking with like minded people technologies and beyond, to keep me updated on what's happening on the other side of the coin.
 
 ---
 
