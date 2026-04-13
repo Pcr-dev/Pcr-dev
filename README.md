@@ -16,7 +16,7 @@ I also enjoy attending technical conferences, Blinking ideas in Start-up, Busine
 
 ## 🛠️ Dirty My Hands In Technologies
 
-- **Programming:** Python (Pandas, Numpy, Sklearn, Jupyter Notebook) || JavaScript (React, React Native, Node.js)
+- **Programming:** Python (Pandas, Numpy, Sklearn, Jupyter Notebook) || JavaScript (React, Node.js)
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
 - **Backend & DB:** Appwrite || Firebase || SQL || MongoDB
 - **Others:** WebAssembly (WASM), Docker
