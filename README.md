@@ -14,12 +14,13 @@ I also enjoy attending technical conferences, Blinking ideas in Start-up, Busine
 
 ---
 
-## 🛠️ Top Skills & Technologies
+## 🛠️ Dirty My Hands In Technologies
 
-- **Programming:** Python (Pandas, Numpy, Sklearn), JavaScript (React, React Native, Node.js)
+- **Programming:** Python (Pandas, Numpy, Sklearn, Jupyter Notebook) || JavaScript (React, React Native, Node.js)
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend & DB:** SQL, MongoDB
+- **Backend & DB:** Appwrite || Firebase || SQL || MongoDB
 - **Others:** WebAssembly (WASM), Docker
+- **Learning:** Cloud Technologies, Agentic Development
 
 ---
 
