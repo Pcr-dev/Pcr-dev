@@ -1,6 +1,6 @@
 # 👋 Hi there, this is Pratap
 
-> *Working as a technical Analyst @ Wipro Technologies | Life Long Learner | Data Science Enthusiast | Web Dev & passionate for product design*
+> *Working as a Technical Analyst @ Wipro Technologies | Life Long Learner | Data Science Enthusiast | Web Dev, Passionate for Brainstorming and Product Design*
 
 ---
 
